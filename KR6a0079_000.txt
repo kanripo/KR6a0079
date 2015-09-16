@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 鸚鵡經
+#+DATE: 2015-08-30 19:30:21.789108
+#+PROPERTY: JUAN 0
